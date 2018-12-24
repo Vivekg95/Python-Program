@@ -1,2 +1,2 @@
-# Calculator
-Calculator program in Python
+#Python
+Python Program
